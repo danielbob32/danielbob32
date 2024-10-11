@@ -14,7 +14,7 @@ A comprehensive solution for managing parking spaces using computer vision. This
 ### 📸 Facial Verification App (Under Construction)
 A Python-based application utilizing Siamese neural networks for facial verification. This project includes the implementation and training of the network from scratch and is currently under development.
 
-### 🎬 Movie Theater Management System (Team Project, Under Construction)
+### 🎬 Movie Theater Management System (Team Project)
 A JavaFX application for managing movie theaters. Features include client-server communication using OCSF, MySQL ORM, and Event Bus for event-driven programming. This is a collaborative project with my team and is currently in progress.
 
 ### 🔍 Hough Transform
