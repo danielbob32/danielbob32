@@ -11,17 +11,24 @@ Welcome to my GitHub profile. I'm Daniel Bobritski, a computer science student a
 ### 🚗 Parking Management System
 A comprehensive solution for managing parking spaces using computer vision. This project leverages OpenCV and YOLO for real-time video processing.
 
+### 🖼️ Splatter Image Improvement with Depth
+An advanced project focused on enhancing splatter images by incorporating depth information. Utilizing techniques in computer vision and image processing, this project aims to improve image quality and detail by leveraging depth cues.
+
+### 🔗 Image Matching for 3D Reconstruction
+A project exploring image matching techniques for 3D reconstruction using epipolar geometry and epipolar lines. This work involves matching features across images to reconstruct 3D scenes, applying concepts from stereo vision and advanced computer vision algorithms.
+
+### 🔍 Hough Transform
+An in-depth exploration and application of the Hough Transform for detecting geometric shapes in images, particularly triangles. This project demonstrates the implementation of edge detection and line detection techniques.
+
 ### 📸 Facial Verification App (Under Construction)
 A Python-based application utilizing Siamese neural networks for facial verification. This project includes the implementation and training of the network from scratch and is currently under development.
 
 ### 🎬 Movie Theater Management System (Team Project)
 A JavaFX application for managing movie theaters. Features include client-server communication using OCSF, MySQL ORM, and Event Bus for event-driven programming. This is a collaborative project with my team and is currently in progress.
 
-### 🔍 Hough Transform
-An in-depth exploration and application of the Hough Transform for detecting geometric shapes in images, particularly triangles. This project demonstrates the implementation of edge detection and line detection techniques.
-
 ### 🌐 Parking Space Web (PSWeb)
 A formal web application built using HTML and CSS to manage parking spaces. This project complements the Parking Management System by providing a user-friendly web interface for interaction and is deployed using GitHub Pages.
+
 
 ## Key Skills
 
